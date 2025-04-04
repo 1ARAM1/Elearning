@@ -42,7 +42,7 @@ nav ul li a:hover {
 }
 
 main {
-    max-width: 600px;
+    max-width: 800px;
     margin: 30px auto;
     background: white;
     padding: 20px;
@@ -82,4 +82,10 @@ h2 {
     background: white;
     border-top: 1px solid #06BBCC;
     font-size: 14px;
+}
+
+.lesson-image {
+    width: 100%;
+    border-radius: 5px;
+    margin: 20px 0;
 }
